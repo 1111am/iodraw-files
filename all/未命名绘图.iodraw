@@ -64,8 +64,8 @@
             <mxPoint x="232.44" y="808.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1WSVy8qdaDZ3wQ4qFhOn-11" value="&lt;font style=&quot;font-size: 14px&quot; face=&quot;Times New Roman&quot;&gt;smoothing function&amp;nbsp;F&lt;sub&gt;2&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;opacity=20;textOpacity=20;sketch=0;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="154.44" y="873.96" width="137" height="22" as="geometry" />
+        <mxCell id="1WSVy8qdaDZ3wQ4qFhOn-11" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;W&lt;/span&gt;&lt;sup style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;T&lt;/sup&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;x&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;2&lt;/sub&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;+b&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;2&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;opacity=20;textOpacity=20;sketch=0;shadow=1;" parent="1" vertex="1">
+          <mxGeometry x="188.44" y="868.96" width="69" height="32" as="geometry" />
         </mxCell>
         <mxCell id="1WSVy8qdaDZ3wQ4qFhOn-16" value="" style="endArrow=classic;html=1;opacity=20;textOpacity=20;sketch=0;shadow=1;" parent="1" source="9DkXvD5BmU066DNJweNO-9" target="9DkXvD5BmU066DNJweNO-55" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
