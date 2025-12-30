@@ -628,9 +628,6 @@
             <mxPoint x="-502.42785306462883" y="-782.6159154041235" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0F2Ji3_bqfc-uLa9vUFe-3" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;ConvGRU&lt;/font&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;strokeColor=#9673a6;rotation=0;fontFamily=Times New Roman;fillColor=#e1d5e7;sketch=0;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="755" width="126.97" height="32" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
