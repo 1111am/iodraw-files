@@ -710,7 +710,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0F2Ji3_bqfc-uLa9vUFe-28" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="0F2Ji3_bqfc-uLa9vUFe-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=36;entryDy=33.17;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="0F2Ji3_bqfc-uLa9vUFe-12" target="0F2Ji3_bqfc-uLa9vUFe-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="639" y="812" as="sourcePoint" />
             <mxPoint x="689" y="762" as="targetPoint" />
