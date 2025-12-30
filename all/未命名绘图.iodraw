@@ -633,7 +633,7 @@
             <mxPoint x="661" y="817" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0F2Ji3_bqfc-uLa9vUFe-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=17.5;entryPerimeter=0;exitX=1.017;exitY=0.461;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0F2Ji3_bqfc-uLa9vUFe-5">
+        <mxCell id="0F2Ji3_bqfc-uLa9vUFe-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=10.085;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="0F2Ji3_bqfc-uLa9vUFe-21" source="0F2Ji3_bqfc-uLa9vUFe-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="596" y="844.34" as="sourcePoint" />
             <mxPoint x="622" y="870.46" as="targetPoint" />
@@ -643,7 +643,7 @@
           <mxGeometry x="608" y="919" width="87" height="25" as="geometry" />
         </mxCell>
         <mxCell id="0F2Ji3_bqfc-uLa9vUFe-12" value="MaxPooling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="601.69" y="822" width="87" height="25" as="geometry" />
+          <mxGeometry x="608" y="843.96" width="87" height="25" as="geometry" />
         </mxCell>
         <mxCell id="0F2Ji3_bqfc-uLa9vUFe-13" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=13;direction=east;" vertex="1" parent="1">
           <mxGeometry x="622" y="765" width="59" height="48" as="geometry" />
