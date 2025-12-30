@@ -43,7 +43,7 @@
         <mxCell id="9DkXvD5BmU066DNJweNO-56" value="&lt;font style=&quot;font-size: 13px&quot;&gt;&lt;b style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;F&lt;sub&gt;p&lt;/sub&gt;(x&lt;/b&gt;&lt;b style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;&lt;sub&gt;p&lt;/sub&gt;)&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;direction=east;fillColor=#FFE599;sketch=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="317.94" y="779.17" width="45" height="29" as="geometry" />
         </mxCell>
-        <mxCell id="9DkXvD5BmU066DNJweNO-91" value="&lt;pre&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px&quot; color=&quot;#6f81de&quot;&gt;Nonlin-2D Encoder&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;dashed=1;dashPattern=1 2;rotation=90;strokeColor=none;sketch=0;shadow=0;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="9DkXvD5BmU066DNJweNO-91" value="&lt;pre&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 15px&quot; color=&quot;#6f81de&quot;&gt;Wide Model&lt;/font&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;dashed=1;dashPattern=1 2;rotation=90;strokeColor=none;sketch=0;shadow=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="310.44000000000005" y="863.97" width="151.83" height="24.33" as="geometry" />
         </mxCell>
         <mxCell id="9DkXvD5BmU066DNJweNO-92" value="&lt;font style=&quot;font-size: 15px&quot; face=&quot;Times New Roman&quot; color=&quot;#6f81de&quot;&gt;TimeScale-3D Encoder&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;rotation=90;strokeColor=none;sketch=0;shadow=0;fillColor=none;" parent="1" vertex="1">
