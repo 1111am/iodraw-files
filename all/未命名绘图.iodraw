@@ -206,7 +206,7 @@
             <mxPoint x="-39.737853064628894" y="369.17408459587654" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U052gTKLFGibxK4TdQD5-71" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;ConvLSTM&lt;/font&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;strokeColor=#b85450;rotation=0;fontFamily=Times New Roman;fillColor=#f8cecc;sketch=0;shadow=1;" parent="1" vertex="1">
+        <mxCell id="U052gTKLFGibxK4TdQD5-71" value="&lt;b&gt;&lt;font style=&quot;font-size: 11px&quot;&gt;Multi-ConvLSTM&lt;/font&gt;&lt;/b&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;strokeColor=#b85450;rotation=0;fontFamily=Times New Roman;fillColor=#f8cecc;sketch=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="438.37" y="788.3699999999999" width="87" height="32.92" as="geometry" />
         </mxCell>
         <mxCell id="CxNhmJf93O3Oz14UVYqw-185" value="" style="group" parent="1" vertex="1" connectable="0">
