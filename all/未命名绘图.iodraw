@@ -667,6 +667,9 @@
             <mxPoint x="632" y="871" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="0F2Ji3_bqfc-uLa9vUFe-15" value="MaxPooling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="596" y="733" width="87" height="25" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
