@@ -417,7 +417,7 @@
           <mxGeometry x="608" y="919" width="87" height="25" as="geometry" />
         </mxCell>
         <mxCell id="0F2Ji3_bqfc-uLa9vUFe-12" value="MaxPooling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="608" y="843.96" width="87" height="25" as="geometry" />
+          <mxGeometry x="847" y="775" width="87" height="25" as="geometry" />
         </mxCell>
         <mxCell id="0F2Ji3_bqfc-uLa9vUFe-15" value="MaxPooling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="452" y="738" width="230" height="25" as="geometry" />
