@@ -639,7 +639,7 @@
         <mxCell id="0F2Ji3_bqfc-uLa9vUFe-12" value="MaxPooling" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="608" y="843.96" width="87" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="0F2Ji3_bqfc-uLa9vUFe-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=10.085;entryPerimeter=0;exitX=0.989;exitY=0.096;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0F2Ji3_bqfc-uLa9vUFe-5">
+        <mxCell id="0F2Ji3_bqfc-uLa9vUFe-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=10.085;entryPerimeter=0;exitX=1.003;exitY=0.08;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="0F2Ji3_bqfc-uLa9vUFe-5" target="0F2Ji3_bqfc-uLa9vUFe-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="598" y="776" as="sourcePoint" />
             <mxPoint x="622" y="806.085" as="targetPoint" />
