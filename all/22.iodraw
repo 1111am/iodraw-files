@@ -88,6 +88,9 @@
         <mxCell id="u5cZb99PxW7x24AEO2vq-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="560" y="295" width="50" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="u5cZb99PxW7x24AEO2vq-21" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="40" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
