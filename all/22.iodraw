@@ -152,8 +152,11 @@
         <mxCell id="u5cZb99PxW7x24AEO2vq-34" value="卷积层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="210" y="26" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="u5cZb99PxW7x24AEO2vq-36" value="卷积层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="u5cZb99PxW7x24AEO2vq-36" value="池化层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="26" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u5cZb99PxW7x24AEO2vq-37" value="池化层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="36" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
