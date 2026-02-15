@@ -158,6 +158,9 @@
         <mxCell id="u5cZb99PxW7x24AEO2vq-37" value="全连接层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="26" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="u5cZb99PxW7x24AEO2vq-38" value="全连接层" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="700" y="26" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
