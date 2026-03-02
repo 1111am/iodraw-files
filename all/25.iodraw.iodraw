@@ -7,11 +7,14 @@
         <mxCell id="r9t07bkkD-sLwVOV33M8-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="310" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="r9t07bkkD-sLwVOV33M8-2" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="r9t07bkkD-sLwVOV33M8-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="r9t07bkkD-sLwVOV33M8-1" target="r9t07bkkD-sLwVOV33M8-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="360" as="sourcePoint" />
-            <mxPoint x="440" y="310" as="targetPoint" />
+            <mxPoint x="500" y="340" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="r9t07bkkD-sLwVOV33M8-3" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="300" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
