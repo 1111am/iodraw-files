@@ -25,7 +25,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="r9t07bkkD-sLwVOV33M8-16" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r9t07bkkD-sLwVOV33M8-7">
+        <mxCell id="r9t07bkkD-sLwVOV33M8-16" value="α" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="r9t07bkkD-sLwVOV33M8-7">
           <mxGeometry x="0.3361" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
