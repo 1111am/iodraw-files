@@ -539,7 +539,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oUnPra-9sM1S7YpEE5tQ-109" value="" style="endArrow=none;html=1;rounded=1;curved=0;" edge="1" parent="1">
+        <mxCell id="oUnPra-9sM1S7YpEE5tQ-109" value="" style="endArrow=none;html=1;rounded=1;curved=0;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="320" as="sourcePoint" />
             <mxPoint x="440" y="320" as="targetPoint" />
