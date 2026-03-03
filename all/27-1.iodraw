@@ -554,8 +554,8 @@
         <mxCell id="2L4DBKmmwdNIbv5cFgZs-107" value="10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="662" y="524" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2L4DBKmmwdNIbv5cFgZs-108" value="(a) Sigmoid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="318" y="554" width="80" height="30" as="geometry" />
+        <mxCell id="2L4DBKmmwdNIbv5cFgZs-108" value="(c) ReLu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="323" y="554" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2L4DBKmmwdNIbv5cFgZs-109" value="(b)Tanh" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="572" y="554" width="60" height="30" as="geometry" />
