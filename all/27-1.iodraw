@@ -547,12 +547,12 @@
         <mxCell id="2L4DBKmmwdNIbv5cFgZs-109" value="(d)Leaky ReLu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="552" y="554" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2L4DBKmmwdNIbv5cFgZs-110" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="2L4DBKmmwdNIbv5cFgZs-110" value="" style="endArrow=none;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="510" as="sourcePoint" />
-            <mxPoint x="440" y="430" as="targetPoint" />
+            <mxPoint x="280" y="509" as="sourcePoint" />
+            <mxPoint x="440" y="429" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="360" y="510" />
+              <mxPoint x="360" y="509" />
             </Array>
           </mxGeometry>
         </mxCell>
