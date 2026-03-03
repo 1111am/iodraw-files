@@ -199,7 +199,7 @@
               <mxPoint x="563" y="320" />
               <mxPoint x="583" y="310" />
               <mxPoint x="603" y="280" />
-              <mxPoint x="623" y="250" />
+              <mxPoint x="623" y="240" />
               <mxPoint x="643" y="240" />
             </Array>
           </mxGeometry>
@@ -258,8 +258,8 @@
         <mxCell id="2L4DBKmmwdNIbv5cFgZs-47" value="0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="265" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2L4DBKmmwdNIbv5cFgZs-48" value="0.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="305" width="40" height="30" as="geometry" />
+        <mxCell id="2L4DBKmmwdNIbv5cFgZs-48" value="-1.0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="468" y="305" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2L4DBKmmwdNIbv5cFgZs-49" value="-10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="503" y="335" width="40" height="30" as="geometry" />
