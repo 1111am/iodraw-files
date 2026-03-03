@@ -718,6 +718,9 @@
         <mxCell id="GiWiWKiUT6mUQUKyTF6S-211" value="&lt;b&gt;Wide Model&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="130" y="350" width="90" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="GiWiWKiUT6mUQUKyTF6S-212" value="&lt;b&gt;Wide Model&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="350" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
