@@ -276,8 +276,8 @@
         <mxCell id="oUnPra-9sM1S7YpEE5tQ-52" value="10" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="663" y="335" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="oUnPra-9sM1S7YpEE5tQ-53" value="(a) Sigmoid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="319" y="365" width="80" height="30" as="geometry" />
+        <mxCell id="oUnPra-9sM1S7YpEE5tQ-53" value="(a) Sigmoid_derivative" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="289" y="365" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oUnPra-9sM1S7YpEE5tQ-54" value="(b)Tanh" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="573" y="365" width="60" height="30" as="geometry" />
@@ -508,7 +508,7 @@
           <mxGeometry x="469" y="414" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oUnPra-9sM1S7YpEE5tQ-98" value="0.5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="470" y="454" width="40" height="30" as="geometry" />
+          <mxGeometry x="469" y="454" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oUnPra-9sM1S7YpEE5tQ-99" value="0" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="478" y="494" width="30" height="30" as="geometry" />
