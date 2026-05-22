@@ -410,7 +410,7 @@
         <mxCell id="0F2Ji3_bqfc-uLa9vUFe-11" value="MaxPooling" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="625" y="920" width="87" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="0F2Ji3_bqfc-uLa9vUFe-15" value="MaxPooling" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0F2Ji3_bqfc-uLa9vUFe-15" value="最大池化层" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="450" y="738" width="230" height="25" as="geometry" />
         </mxCell>
         <mxCell id="0F2Ji3_bqfc-uLa9vUFe-16" value="Flatten" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
