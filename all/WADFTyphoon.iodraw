@@ -85,7 +85,7 @@
         <mxCell id="1WSVy8qdaDZ3wQ4qFhOn-20" value="&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;W&lt;/span&gt;&lt;sup style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;T&lt;/sup&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;x&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;p&lt;/sub&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 14px;&quot;&gt;+b&lt;/span&gt;&lt;sub style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;p&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;opacity=20;textOpacity=20;sketch=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="295.44" y="870.96" width="69" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="1WSVy8qdaDZ3wQ4qFhOn-22" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px&quot;&gt;广义加性模型&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;opacity=20;sketch=0;shadow=1;" parent="1" vertex="1">
+        <mxCell id="1WSVy8qdaDZ3wQ4qFhOn-22" value="&lt;h3&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 20px&quot;&gt;线义加性模型&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;opacity=20;sketch=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="193.44" y="847" width="138" height="64" as="geometry" />
         </mxCell>
         <mxCell id="1WSVy8qdaDZ3wQ4qFhOn-23" value="&lt;b style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;...&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-family: &amp;#34;times new roman&amp;#34;&quot;&gt;...&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;rotation=-90;opacity=20;textOpacity=20;sketch=0;shadow=1;" parent="1" vertex="1">
@@ -407,7 +407,7 @@
         <mxCell id="0F2Ji3_bqfc-uLa9vUFe-7" value="RMCG" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=13;direction=east;fillColor=#FAFFB3;strokeColor=#999D5C;" parent="1" vertex="1">
           <mxGeometry x="622" y="951" width="95" height="33.17" as="geometry" />
         </mxCell>
-        <mxCell id="0F2Ji3_bqfc-uLa9vUFe-11" value="MaxPooling" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0F2Ji3_bqfc-uLa9vUFe-11" value="最大池化层" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="625" y="920" width="87" height="25" as="geometry" />
         </mxCell>
         <mxCell id="0F2Ji3_bqfc-uLa9vUFe-15" value="最大池化层" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -482,7 +482,7 @@
             <mxPoint x="471" y="899" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0F2Ji3_bqfc-uLa9vUFe-39" value="MaxPooling" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="0F2Ji3_bqfc-uLa9vUFe-39" value="最大池化层" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="625" y="847" width="86" height="25" as="geometry" />
         </mxCell>
         <mxCell id="0F2Ji3_bqfc-uLa9vUFe-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="0F2Ji3_bqfc-uLa9vUFe-11" target="0F2Ji3_bqfc-uLa9vUFe-11" edge="1">
